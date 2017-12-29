@@ -33,5 +33,5 @@ This file contains information about basic goals and principles for whole The RC
 It is default for most projects of community. The specific projects rules are described within each repository of RCML (rcml-tech organization).
 
 ## License
-All open source RCML code distribute by MIT license by default, see LICENCE file.
+All open source RCML code distribute by MS-PL license by default, see LICENCE file.
 In any way, each RCML repository of code contains LICENSE file that notice about license to code within that repository.
